@@ -1,6 +1,6 @@
 services:
   app:
-    image: iagoaldev/webacademy:latest
+    image: iagoalmartins/webacademy:latest
     container_name: webacademydemo
     restart: always
     ports:
